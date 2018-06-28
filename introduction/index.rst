@@ -10,7 +10,6 @@ Description
    scriptfunc.rst
    templates2.rst
    appexample.rst
-   exchangeapi.rst
    api2.rst
    alphabetical_index.rst
    contracts.rst
